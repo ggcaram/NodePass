@@ -1,5 +1,5 @@
 # NodePass
-Generacion de contraseñas aleatorias con Node.js
+**Generacion de contraseñas aleatorias con Node.js**
 ![image](https://user-images.githubusercontent.com/63132435/125217399-e8954300-e296-11eb-8393-c34757d874aa.png)
 
 
@@ -12,7 +12,7 @@ Modulos usados:
 
 Funcionalidades:
 
--h listado de funcionalidades
+**-h** listado de funcionalidades
 
 Genera una contraseña por defecto de 8 caracteres, con letras, numeros y simbolos
 
@@ -20,22 +20,22 @@ Copia la contraseña al portapapeles
 
 Funcionalidades de modificacion:
 
-** --length= valor ** 
+**--length= valor** 
 
 El numero ingresado como valor determina la cantidad de caracteres de la contraseña
 
-** -nn ** 
+**-nn** 
 
 Genera la contraseña sin numeros
 
-** -ns ** 
+**-ns** 
 
 Genera la contraseña sin simbolos
 
-** --save ** 
+**--save** 
 
 Guarda la contraseña en un .txt. El archivo esta en la raiz del programa y se llama "passwords.txt"
 
-** Autor: Gabriel C.C. ** 
+**Autor: Gabriel C.C.** 
 
-** Se sigue el tutorial de Traversy Media: ** https://www.youtube.com/watch?v=3Xx83JAktXk&ab_channel=TraversyMedia
+**Se sigue el tutorial de Traversy Media:** https://www.youtube.com/watch?v=3Xx83JAktXk&ab_channel=TraversyMedia
