@@ -20,22 +20,22 @@ Copia la contraseña al portapapeles
 
 Funcionalidades de modificacion:
 
---length= valor 
+** --length= valor ** 
 
 El numero ingresado como valor determina la cantidad de caracteres de la contraseña
 
--nn 
+** -nn ** 
 
 Genera la contraseña sin numeros
 
--ns 
+** -ns ** 
 
 Genera la contraseña sin simbolos
 
---save
+** --save ** 
 
 Guarda la contraseña en un .txt. El archivo esta en la raiz del programa y se llama "passwords.txt"
 
-Autor: Gabriel C.C.
+** Autor: Gabriel C.C. ** 
 
-Se sigue el tutorial de Traversy Media: https://www.youtube.com/watch?v=3Xx83JAktXk&ab_channel=TraversyMedia
+** Se sigue el tutorial de Traversy Media: ** https://www.youtube.com/watch?v=3Xx83JAktXk&ab_channel=TraversyMedia
