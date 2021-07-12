@@ -21,7 +21,7 @@
 
 ## Funcionalidades de modificacion:
 
-**--length= valor** 
+**-l= valor** 
 
 El numero ingresado como valor determina la cantidad de caracteres de la contraseña
 
@@ -33,7 +33,7 @@ Genera la contraseña sin numeros
 
 Genera la contraseña sin simbolos
 
-**--save** 
+**-s** 
 
 Guarda la contraseña en un .txt. El archivo esta en la raiz del programa y se llama "passwords.txt"
 
