@@ -22,7 +22,7 @@ Funcionalidades de modificacion:
 
 --length= valor 
 
-El numero ingresado en valor determina la cantidad de caracteres de la contraseña
+El numero ingresado como valor determina la cantidad de caracteres de la contraseña
 
 -nn 
 
